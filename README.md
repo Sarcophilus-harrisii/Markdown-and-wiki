@@ -22,12 +22,12 @@ h2 или ## h2
         /js
 
 7. Подсветка синтаксиса (Syntax highlighting):
-* HTML:
+   1. HTML:
 
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
-* CSS:
+   2. CSS:
 ```css
 h1 {
     font-size: 10px;
