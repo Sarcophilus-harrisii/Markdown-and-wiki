@@ -1,3 +1,4 @@
+[тыц](https://sarcophilus-harrisii.github.io/Markdown-and-wiki/)
 ### Заголовки (Headers): 
 h1 или # h1
 =
